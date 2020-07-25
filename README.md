@@ -1,5 +1,8 @@
 # YouTube subscribers counter
 
+## Video tutorial
+https://youtu.be/ZSp5U3ztLU8
+
 ## Links:
 https://console.developers.google.com/apis/
 
